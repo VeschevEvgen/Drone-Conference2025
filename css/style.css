@@ -2595,7 +2595,7 @@ body.visible-sidebar{
 
 .intro-section .text-col .about{
   position: relative;
-  padding-left: 40px;
+  padding-left: 10px;
 }
 
 .intro-section .image-col{
@@ -2625,7 +2625,7 @@ body.visible-sidebar{
 .intro-section .info-block .inner-box{
   position: relative;
   display: block;
-  max-width: 490px;
+/*  max-width: 490px;*/
   padding-left: 75px;
   padding-top: 10px;
   min-height: 70px;
